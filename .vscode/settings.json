@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "tslib.h": "c",
+        "ui.h": "c",
+        "main.h": "c",
+        "lcd.h": "c",
+        "ts.h": "c",
+        "freetype.h": "c",
+        "serial.h": "c"
+    }
+}
